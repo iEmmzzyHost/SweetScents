@@ -1,0 +1,19 @@
+.four-0-four-image {
+    display: block;
+    margin: 15px auto;
+    width: 60%;
+}
+
+.four-0-four-msg {
+    text-align: center;
+    text-transform: capitalize;
+    color: #383838;
+    text-align: center;
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+}
+
+.four-0-four-img a {
+    color: #383838;
+}
